@@ -20,7 +20,7 @@ Sou o Raphael, estudante de programação e desenvolvimento de Software, atualme
 [![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#) [![Kotlin Badge](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](#) [![ReactNative Badge](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#) [![Flutter Badge](https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)](#) [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#) [![HTML Badge](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](#) [![Php Badge](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)](#) [![MySql Badge](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)](#)
 </div>
 
-Gosto de passar meu tempo aprendendo novas tecnologias e desenvolvendo projetos. Atualmente cursando o Bootcamp Everis Kotlin Developer pela Digital Innovation One. Desenvolvendo o My CookBook.
+Gosto de passar meu tempo aprendendo novas tecnologias e desenvolvendo projetos, atualmente estudando desenvolvimento mobile com flutter. Iniciando o curso de Analise e Desenvolvimento de Sistemas pela PUC Minas.
 
 
 
