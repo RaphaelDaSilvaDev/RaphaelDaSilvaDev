@@ -1,20 +1,11 @@
 ## Hi, I'm Raphael, and welcome to my Github page.
 
-I'm web developer student, currently learn about React, NodeJs and TypeScript!
+I'm web developer, currently using React, NodeJs and TypeScript!
 
-#### Contact
-
-<div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/Raphael%20Silva-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeldasilvadev/) [![Instagram Badge](https://img.shields.io/badge/rapha_h_silva-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rapha_h_silva/) [![Mail Badge](https://img.shields.io/badge/raphael%20silva-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raphael.h.silva@protonmail.com)
-
-</div>
-
-
-- 👀⠀Looking for a job as a junior web developer!
-- 📚 Currently studying at [DIO](https://www.dio.me/) and [RocketSeat](https://www.rocketseat.com.br/)
-- 🧭 Technology explorer and interested in new experiences!
-- 🚀 Never stop learning, always looking for the next level!
+- :man_student: Pursuing a degree in computer science
+- :books: Currently studying NodeJs at [RocketSeat](https://www.rocketseat.com.br/)
+- :compass: Technology explorer and interested in new experiences!
+- :rocket: Never stop learning, always looking for the next level!
 
 #### Code Languages
 
@@ -29,6 +20,13 @@ I'm web developer student, currently learn about React, NodeJs and TypeScript!
 
 </div>
 
+#### Contact
+
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/Raphael%20Silva-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeldasilvadev/) [![Mail Badge](https://img.shields.io/badge/raphael%20silva-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raphael.h.silva@protonmail.com)
+
+</div>
 
 #### Github Stats
 
