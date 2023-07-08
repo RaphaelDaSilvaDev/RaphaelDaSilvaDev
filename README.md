@@ -1,11 +1,24 @@
-## Hi, I'm Raphael, and welcome to my Github page.
+## Hi, I'm Raphael,
+ Web developer, using React, NodeJs and TypeScript. <br />
+ Currently studying Information Security seeking to acquire certifications aimed at the same.
 
-I'm web developer, currently using React, NodeJs and TypeScript!
-
-- :man_student: Pursuing a degree in computer science
-- :books: Currently studying NodeJs at [RocketSeat](https://www.rocketseat.com.br/)
+- :man_student: Pursuing a degree in Information Security!
 - :compass: Technology explorer and interested in new experiences!
 - :rocket: Never stop learning, always looking for the next level!
+
+#### Certifications
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/22cd9e1b-14f2-481d-bd3d-1f9e87121b4a/linked_in_profile">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66075182/251881587-2263e98c-61c4-4541-a9ae-36be15ed7588.png" alt="CISCO Cybersecurity Certification!" />
+</a>
+
+<a href="https://app.rocketseat.com.br/certificates/c8ed5a95-0771-4232-9b4d-efd6aaf54fc0">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66075182/251881728-cd7693c5-b717-4409-b3da-fdb4c1931c9d.png" alt="ROCKETSEAT Ignite NodeJS Certification!" />
+</a>
+
+</div>
 
 #### Code Languages
 
@@ -15,8 +28,6 @@ I'm web developer, currently using React, NodeJs and TypeScript!
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 
 </div>
 
