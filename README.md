@@ -1,6 +1,6 @@
 ## Hi, I'm Raphael,
- Web developer, using React, NodeJs and TypeScript. <br />
- Currently studying Information Security seeking to acquire certifications aimed at the same.
+Studying Information Security with Introduction to Cyber Security certification by Cisco and Cyber Security by Google.<br />
+FullStack Developer - ReactJs, NodeJs, TypeScript and studying Python, SQL
 
 - :man_student: Pursuing a degree in Information Security!
 - :compass: Technology explorer and interested in new experiences!
@@ -10,8 +10,12 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/badges/22cd9e1b-14f2-481d-bd3d-1f9e87121b4a/linked_in_profile">
+<a href="https://www.credly.com/badges/22cd9e1b-14f2-481d-bd3d-1f9e87121b4a">
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66075182/251881587-2263e98c-61c4-4541-a9ae-36be15ed7588.png" alt="CISCO Cybersecurity Certification!" />
+</a>
+
+<a href="https://www.credly.com/badges/7c316186-026c-418c-8117-deefe6f0964f">
+  <img src="https://github.com/RaphaelDaSilvaDev/RaphaelDaSilvaDev/assets/66075182/edd41144-a8ba-4367-a262-de7cbb02d25e" alt="Google Cybersecurity Certificate!" />
 </a>
 
 <a href="https://app.rocketseat.com.br/certificates/c8ed5a95-0771-4232-9b4d-efd6aaf54fc0">
