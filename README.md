@@ -1,8 +1,8 @@
 ## Hi, I'm Raphael,
-Studying Information Security with Introduction to Cyber Security certification by Cisco and Cyber Security by Google.<br />
-FullStack Developer - ReactJs, NodeJs, TypeScript and studying Python, SQL
+Kotlin, Spring Boot and Android developer, with knowledge in ReactJs, NodeJs, Typescript, Docker.<br />
+With information security certifications Cisco Introduction to Cybersecurity Certification and Google Cybersecurity Certification
 
-- :man_student: Pursuing a degree in Information Security!
+- :man_technologist: Becoming an expert in Kotlin, Android and backend!
 - :compass: Technology explorer and interested in new experiences!
 - :rocket: Never stop learning, always looking for the next level!
 
@@ -28,8 +28,8 @@ FullStack Developer - ReactJs, NodeJs, TypeScript and studying Python, SQL
 
 <div align="center">
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
