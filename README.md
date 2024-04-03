@@ -1,8 +1,8 @@
 ## Hi, I'm Raphael,
-Kotlin, Spring Boot and Android developer, with knowledge in ReactJs, NodeJs, Typescript, Docker.<br />
+Java, Spring Boot developer, with knowledge in ReactJs, NodeJs, Typescript, Docker.<br />
 With information security certifications Cisco Introduction to Cybersecurity Certification and Google Cybersecurity Certification
 
-- :man_technologist: Becoming an expert in Kotlin, Android and backend!
+- :man_technologist: Becoming an expert in Java and DevOps!
 - :compass: Technology explorer and interested in new experiences!
 - :rocket: Never stop learning, always looking for the next level!
 
@@ -28,10 +28,11 @@ With information security certifications Cisco Introduction to Cybersecurity Cer
 
 <div align="center">
 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
-[![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
