@@ -1,8 +1,8 @@
 ## Hi, I'm Raphael,
-Java, Spring Boot developer, with knowledge in ReactJs, NodeJs, Typescript, Docker.<br />
+.Net, Kotlin and Flutter developer, with knowledge in ReactJs, NodeJs, Typescript, Docker.<br />
 With information security certifications Cisco Introduction to Cybersecurity Certification and Google Cybersecurity Certification
 
-- :man_technologist: Becoming an expert in Java and DevOps!
+- :man_technologist: Becoming an expert in Mobile and Backend development!
 - :compass: Technology explorer and interested in new experiences!
 - :rocket: Never stop learning, always looking for the next level!
 
@@ -28,8 +28,9 @@ With information security certifications Cisco Introduction to Cybersecurity Cer
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -39,8 +40,9 @@ With information security certifications Cisco Introduction to Cybersecurity Cer
 #### Contact
 
 <div align="center">
-
-[![Linkedin Badge](https://img.shields.io/badge/Raphael%20Silva-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeldasilvadev/) [![Mail Badge](https://img.shields.io/badge/raphael%20silva-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raphael.h.silva@protonmail.com)
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/raphaeldasilvadev/))
+[![Mail Badge](https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raphael.h.silva@protonmail.com)
 
 </div>
 
