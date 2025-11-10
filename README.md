@@ -18,8 +18,8 @@ With information security certifications Cisco Introduction to Cybersecurity Cer
   <img src="https://github.com/RaphaelDaSilvaDev/RaphaelDaSilvaDev/assets/66075182/edd41144-a8ba-4367-a262-de7cbb02d25e" alt="Google Cybersecurity Certificate!" />
 </a>
 
-<a href="https://app.rocketseat.com.br/certificates/c8ed5a95-0771-4232-9b4d-efd6aaf54fc0">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66075182/251881728-cd7693c5-b717-4409-b3da-fdb4c1931c9d.png" alt="ROCKETSEAT Ignite NodeJS Certification!" />
+<a href="https://certs.ibsec.com.br/?cert_hash=1a31f9593fe7c917">
+  <img src="https://github.com/user-attachments/assets/9e29f35e-4c4e-4c6d-aed5-e2bfe55a3af9" alt="Analista SOC IBSEC" />
 </a>
 
 </div>
