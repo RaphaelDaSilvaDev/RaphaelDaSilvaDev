@@ -1,8 +1,7 @@
 ## Hi, I'm Raphael,
-.Net, Kotlin and Flutter developer, with knowledge in ReactJs, NodeJs, Typescript, Docker.<br />
-With information security certifications Cisco Introduction to Cybersecurity Certification and Google Cybersecurity Certification
+C# and Javascript developer transitioning my career to information security.<br />
 
-- :man_technologist: Becoming an expert in Mobile and Backend development!
+- :man_technologist: Becoming an expert in Malware Analysis!
 - :compass: Technology explorer and interested in new experiences!
 - :rocket: Never stop learning, always looking for the next level!
 
@@ -29,8 +28,6 @@ With information security certifications Cisco Introduction to Cybersecurity Cer
 <div align="center">
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
