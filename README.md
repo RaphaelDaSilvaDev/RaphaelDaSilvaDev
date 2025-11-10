@@ -38,7 +38,7 @@ C# and Javascript developer transitioning my career to information security.<br 
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/raphaeldasilvadev/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeldasilvadev/)
 [![Mail Badge](https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raphael.h.silva@protonmail.com)
 
 </div>
