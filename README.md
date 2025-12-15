@@ -42,6 +42,6 @@ I build backend services with an emphasis on **security, scalability and maintai
 
 <div align="center">
   
-![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelDaSilvaDev&theme=dark&hide=contribs,prs)
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelDaSilvaDev&count&theme=dark&hide=contribs,prs)
 
 </div>
