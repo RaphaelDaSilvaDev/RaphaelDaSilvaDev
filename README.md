@@ -1,52 +1,47 @@
-## Hi, I'm Raphael,
-C# and Javascript developer transitioning my career to information security.<br />
+## Hi, I'm Raphael 👋
 
-- :man_technologist: Becoming an expert in Malware Analysis!
-- :compass: Technology explorer and interested in new experiences!
-- :rocket: Never stop learning, always looking for the next level!
+Backend Developer focused on **Python APIs**, authentication systems and clean architecture.
 
-#### Certifications
+I build backend services with an emphasis on **security, scalability and maintainability**, applying real-world patterns used in production environments.
 
-<div align="center">
+- 🐍 Backend development with **Python & FastAPI**
+- 🔐 Authentication & authorization (JWT, refresh tokens, RBAC)
+- 🧱 Clean architecture (routers, services, repositories)
+- 🐘 Relational databases (PostgreSQL)
+- 🐳 Dockerized applications
+- 🧪 Automated tests and API validation
+- 📚 Continuous learning and improvement
 
-<a href="https://www.credly.com/badges/22cd9e1b-14f2-481d-bd3d-1f9e87121b4a">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/66075182/251881587-2263e98c-61c4-4541-a9ae-36be15ed7588.png" alt="CISCO Cybersecurity Certification!" />
-</a>
+---
 
-<a href="https://www.credly.com/badges/7c316186-026c-418c-8117-deefe6f0964f">
-  <img src="https://github.com/RaphaelDaSilvaDev/RaphaelDaSilvaDev/assets/66075182/edd41144-a8ba-4367-a262-de7cbb02d25e" alt="Google Cybersecurity Certificate!" />
-</a>
-
-<a href="https://certs.ibsec.com.br/?cert_hash=1a31f9593fe7c917">
-  <img src="https://github.com/user-attachments/assets/9e29f35e-4c4e-4c6d-aed5-e2bfe55a3af9" alt="Analista SOC IBSEC" />
-</a>
-
-</div>
-
-#### Code Languages
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-#### Contact
+---
+
+## 📫 Contact
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphaeldasilvadev/)
-[![Mail Badge](https://img.shields.io/badge/Mail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raphael.h.silva@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:raphael.h.silva@protonmail.com)
 
 </div>
 
-#### Github Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
   
-![Raphael's github stats](https://github-readme-stats.vercel.app/api?username=RaphaelDaSilvaDev&count_private=true&theme=dark&hide=contribs,prs)
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaphaelDaSilvaDev&theme=dark&hide=contribs,prs)
 
 </div>
